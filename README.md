@@ -1,2 +1,2 @@
-# pandas-practice
+# pandas-practise
 Practise pandas
