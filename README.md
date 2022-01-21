@@ -10,6 +10,7 @@
 - Open library that integrates with matplotlib
 - Pandas has a flexible data structure called as dataframe which is similar to spreadsheet
 - Pandas can read & write many types of data formats, such as CSV or excel files.
+- Official github repo of pandas can be found [here](https://github.com/pandas-dev/pandas)
 
 # 2. Why use Pandas ?
 - Dataframe: Easy to use & efficient object for data manipulation
