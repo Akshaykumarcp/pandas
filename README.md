@@ -11,6 +11,7 @@
 - Pandas has a flexible data structure called as dataframe which is similar to spreadsheet
 - Pandas can read & write many types of data formats, such as CSV or excel files.
 - Official github repo of pandas can be found [here](https://github.com/pandas-dev/pandas)
+- Quick links: [Pandas homepage](https://pandas.pydata.org/), [Pandas IO](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html), [Sort data](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html), [Pandas group by](https://pandas.pydata.org/pandas-docs/stable/reference/groupby.html), [Pandas indexing](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html), [Pandas Viz](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 
 # 2. Why use Pandas ?
 - Dataframe: Easy to use & efficient object for data manipulation
